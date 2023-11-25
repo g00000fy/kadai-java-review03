@@ -7,7 +7,6 @@ public class BaseBallTeam {
 	public int lose;		//負け数
 	public int draw;		//引き分け
 
-
 	//引数なしコンストラクタ（デフォルトコンストラクタ）
 	public BaseBallTeam() {
 	}
